@@ -1,1 +1,1 @@
-# ProgLang
+# Programming Languages Challenge
